@@ -10,3 +10,8 @@ git clone https://github.com/yourusername/vnf-placement.git
 cd vnf-placement
 ```
 ## Usage
+To use the project, follow these steps:
+
+1. Run the `inputs_model.py` file
+2. Open the `Placement and Routing - NFV.ipynb` notebook in a Jupyter Notebook environment and execute the cells sequentially.
+3. Open the `AG VNF-PR.ipynb` notebook in a Jupyter Notebook environment and execute the cells sequentially.
